@@ -1,1 +1,1 @@
-include ':app', ':authgoskatebogota'
+include ':app', ':authGoSkateBogota', ':mapsGoSkate', ':viewUtil', ':webServiceClient'

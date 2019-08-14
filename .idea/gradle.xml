@@ -9,7 +9,10 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/authgoskatebogota" />
+            <option value="$PROJECT_DIR$/authGoSkateBogota" />
+            <option value="$PROJECT_DIR$/mapsGoSkate" />
+            <option value="$PROJECT_DIR$/viewUtil" />
+            <option value="$PROJECT_DIR$/webServiceClient" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
